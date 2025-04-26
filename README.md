@@ -1,5 +1,4 @@
 # INTRAGATREPO
-# IntraGAT
 
 Bem-vindo ao repositório do IntraGAT!
 
